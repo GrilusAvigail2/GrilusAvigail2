@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrilusAvigail2
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently looking for a job.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: avigail6972@gmail.com
 
